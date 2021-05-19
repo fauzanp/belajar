@@ -1,3 +1,4 @@
+
 CATATAN
 
 DAY 1
@@ -33,3 +34,16 @@ DAY 1
 -> Untuk menghapus branch, kita masuk ke branches dan DELETE BRANCH
 -> Apabila kita ingin membuat branch, perhatikan juga branch awal (dapat dilihat melalui from 'nama branch')
 -> Apabila kita melakukan MERGE dan ketika baris yang sama diubah oleh 2 branch yang berbeda, terjadi MERGE CONFLICT sehingga kita harus mensolved secara manual melalui pull        request  
+
+DAY 2
+
+[video 3]
+#FORKING
+-> forking : membuat copy dan duplicat dari repo orang lain (tidak hanya file nya, tetapi juga seluruh history commitnya)
+-> dapat digunakan untuk menambahkan suatu fitur ke dalam program kita yangmana fitur tersebut sudah dibuat oleh orang lain, dan juga kita bisa memodifikasinya
+-> dapat digunakan untuk berkontribusi terhahdap repo orang lain dengan menggunakan pull request
+-> cara untuk melakukan fork ada 2, yaitu
+   1. Langsung mengedit di repo orang ("fork and edit")
+   2. Melalui tombol fork pada repo orang yang berada di bagian atas kanan
+-> Jika ingin memodifikasi file dengan tujuan untuk kontribusi, kita harus melakukan pull request (new pull request)
+
