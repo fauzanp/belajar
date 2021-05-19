@@ -1,0 +1,10 @@
+CATATAN
+
+-> repository : seperti folder pada komputer
+-> Repository public => bisa diakses oleh semua orang sedangkan 
+   Repository private => hanya bisa diakses oleh tim kita saja yang mana apabila versi free, hanya boleh 3 orang saja
+-> File Readme berguna untuk menjelaskan terkait project yang kita buat, bisa jadi berupa untuk apa project tersebut dibuat, penjelasan terkait cara kerja project, tutorial
+   instalasi, dan sebagainya
+-> Dalam suatu repo, kita bisa menyimpan banyak folder dan banyak file yangmana file yang tersebut dapat berupa file apa saja
+-> Setiap kita selesai kita membuat atau mengedit sebuah project, kita harus melakukan commit dan menuliskan COMMIT nya terkait apa yang kita lakukan dalam project
+   atau file tersebut
