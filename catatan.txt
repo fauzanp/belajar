@@ -15,3 +15,21 @@ DAY 1
    terkait riwayat perubahan yang kuta lakukan
 -> Dalam history tersebut (per commit), terdapat suatu kode commit di bagian kanan atas yang disebut HASH yangmana github akan melacak perubahan melalui COMMIT HASH tersebut.
 -> Apabila kita ingin melihat perubahan secara visual, kita bisa masuk ke reponya, masuk ke insight dan cari bagian network
+
+[video #3]
+#BRANCH
+-> Branch digunakan apabila Anda mendevelop suatu project dan ingin menambahkan suatu fitur percobaan yangmana Anda masih belum yakin terhadap fitur tersebut, 
+   Anda bisa membuat branch di luar branch utama (MAIN/MASTER) sehingga apabila sudah cocok bisa dimasukkan ke dalam program Anda di branch utama menggunakan merge
+-> Merge merupakan suatu upaya untuk menggabungkan commit dari branch cabang ke branch utama
+-> Branch : membuat snapshot tanpa mengganggu jalur utama (MASTER BRANCH)
+-> Bisa digunakan apabila ada 2 orang mengerjakan satu repo yang sama
+-> Untuk membuat branch baru, ada 2 cara 
+   1. Melakukan perubahan file terlebih dahulu kemudian melakukan commit di branch yang lain
+   2. Berpindah ke branch lain pada halaman awal repository dan membuat perubahan di situ
+-> Setelah kita masuk ke branch yang baru tersebut, akan ada menu baru pada branch tersebut yaitu COMPARE AND PULL REQUEST di bagian atas
+-> Untuk melakukan dua buah branch, kita melakukan MERGING dan PULL REQUEST
+-> PULL REQUEST : apabila kita ingin membuat branch ke dalam MASTER, kita harus meminta izin terlebih dahulu kepada orang yang mempunyai branch masternya
+   Apabila kita yang memiliki MASTER BRANCH tersebut, kita bisa cek di tab PULL REQUEST dan mengizinkan atau menolak PULL REQUEST tersebut
+-> Untuk menghapus branch, kita masuk ke branches dan DELETE BRANCH
+-> Apabila kita ingin membuat branch, perhatikan juga branch awal (dapat dilihat melalui from 'nama branch')
+-> Apabila kita melakukan MERGE dan ketika baris yang sama diubah oleh 2 branch yang berbeda, terjadi MERGE CONFLICT sehingga kita harus mensolved secara manual melalui pull        request  
