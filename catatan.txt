@@ -1,9 +1,9 @@
 CATATAN
 
 DAY 1
-
 [video 2]
 #BERKENALAN DENGAN GitHub
+
 -> repository : seperti folder pada komputer
 -> Repository public => bisa diakses oleh semua orang sedangkan 
    Repository private => hanya bisa diakses oleh tim kita saja yang mana apabila versi free, hanya boleh 3 orang saja
