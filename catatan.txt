@@ -1,6 +1,8 @@
 CATATAN
 
 DAY 1
+
+[video #2]
 -> repository : seperti folder pada komputer
 -> Repository public => bisa diakses oleh semua orang sedangkan 
    Repository private => hanya bisa diakses oleh tim kita saja yang mana apabila versi free, hanya boleh 3 orang saja
@@ -9,3 +11,7 @@ DAY 1
 -> Dalam suatu repo, kita bisa menyimpan banyak folder dan banyak file yangmana file yang tersebut dapat berupa file apa saja
 -> Setiap kita selesai kita membuat atau mengedit sebuah project, kita harus melakukan commit dan menuliskan COMMIT nya terkait apa yang kita lakukan dalam project
    atau file tersebut
+-> Jika kita ingin melacak history dari perubahan yang kita lakukan terhadap repo tersebut, kita masuk ke dalam repo dan klik history yangmana disitu akan ditampilkan
+   terkait riwayat perubahan yang kuta lakukan
+-> Dalam history tersebut (per commit), terdapat suatu kode commit di bagian kanan atas yang disebut HASH yangmana github akan melacak perubahan melalui COMMIT HASH tersebut.
+-> Apabila kita ingin melihat perubahan secara visual, kita bisa masuk ke reponya, masuk ke insight dan cari bagian network
