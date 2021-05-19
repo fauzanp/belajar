@@ -2,7 +2,7 @@ CATATAN
 
 DAY 1
 
-[video #1]
+[video 2]
 #BERKENALAN DENGAN GitHub
 -> repository : seperti folder pada komputer
 -> Repository public => bisa diakses oleh semua orang sedangkan 
@@ -17,7 +17,7 @@ DAY 1
 -> Dalam history tersebut (per commit), terdapat suatu kode commit di bagian kanan atas yang disebut HASH yangmana github akan melacak perubahan melalui COMMIT HASH tersebut.
 -> Apabila kita ingin melihat perubahan secara visual, kita bisa masuk ke reponya, masuk ke insight dan cari bagian network
 
-[video #2]
+[video 3]
 #BRANCH
 -> Branch digunakan apabila Anda mendevelop suatu project dan ingin menambahkan suatu fitur percobaan yangmana Anda masih belum yakin terhadap fitur tersebut, 
    Anda bisa membuat branch di luar branch utama (MAIN/MASTER) sehingga apabila sudah cocok bisa dimasukkan ke dalam program Anda di branch utama menggunakan merge
